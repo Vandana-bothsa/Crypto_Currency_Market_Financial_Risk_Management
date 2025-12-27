@@ -1,0 +1,9 @@
+Django==3.2
+mysqlclient
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+openpyxl
+xlwt
